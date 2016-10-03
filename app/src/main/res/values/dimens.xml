@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="thumbnail_width">56dp</dimen>
+    <dimen name="thumbnail_height">48dp</dimen>
+    <dimen name="thumbnail_seprator">1dp</dimen>
+    <dimen name="edge_separotor">8dp</dimen>
+    
+    <dimen name="program_name_text_size">12dp</dimen>
+    <dimen name="program_dutation_size">9dp</dimen>
+    <dimen name="gap_between_text">6dp</dimen>
+    <dimen name="program_name_top_gap">11dp</dimen>
+    <dimen name="program_name_left_edge">8dp</dimen>
+
+</resources>
